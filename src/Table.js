@@ -1,6 +1,6 @@
 import React from "react";
 
-class Clock extends React.Component {
+class Table extends React.Component {
     constructor(){
         super();
         this.state = {date: new Date()};
