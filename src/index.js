@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Clock from './Clock';
+import TableAdvanced from './TableAdvanced';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Clock />, document.getElementById('root'));
+ReactDOM.render(<TableAdvanced />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
